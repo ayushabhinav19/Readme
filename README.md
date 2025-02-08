@@ -1,7 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Abhinav Shukla</h1>  
 <h3 align="center">🚀 Web Developer | 🎓 CSE Student | 💡 Tech Enthusiast</h3>  
 
-
 ## 🌟 About Me  
 - 🎓 **Student at DY Patil International University**  
 - 💻 Passionate about **Web Development & React**  
@@ -23,20 +22,24 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushabhinav19&show_icons=true&theme=tokyonight" width="400px" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushabhinav19&theme=tokyonight" width="400px" />  
-</p>  
-
----
-
 ## 🌍 Connect With Me  
-📧 **Email:** your-email@example.com  
-🔗 [**GitHub**](https://github.com/ayushabhinav19) | [**LinkedIn**](https://www.linkedin.com/in/abhinav-shukla-y4798/))  
+<p align="center">
+  <a href="https://github.com/ayushabhinav19" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhinav-shukla-y4798/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>  
 
 ---
 
 ⭐ **Fun Fact:** *"Code never lies, comments sometimes do."* 😆  
 
 ✨ **Thanks for visiting! Keep coding & have a great day!** 🚀💙  
+
+
+
+
+
+
