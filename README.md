@@ -1,7 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Abhinav Shukla</h1>  
 <h3 align="center">🚀 Web Developer | 🎓 CSE Student | 💡 Tech Enthusiast</h3>  
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">  
 
 ## 🌟 About Me  
 - 🎓 **Student at DY Patil International University**  
