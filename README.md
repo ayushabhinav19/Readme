@@ -33,7 +33,7 @@
 
 ## 🌍 Connect With Me  
 📧 **Email:** your-email@example.com  
-🔗 [**GitHub**](https://github.com/ayushabhinav19) | [**LinkedIn**](https://linkedin.com/in/your-profile)  
+🔗 [**GitHub**](https://github.com/ayushabhinav19) | [**LinkedIn**](https://www.linkedin.com/in/abhinav-shukla-y4798/))  
 
 ---
 
